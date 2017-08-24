@@ -1,1 +1,1 @@
-console.log(process.versions);
+console.log(`Version: ${process.version}`);
