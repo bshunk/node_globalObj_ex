@@ -1,1 +1,1 @@
-console.log(`Version: ${process.version}`);
+console.log(`Versions: ${process.versions.Node} ${process.versions.V8}`);
